@@ -1,7 +1,7 @@
 MQTT RF Bridge
 ==============
 
-Code to use a CC3200 launchpad to bridge MQTT and cheap RF power outlets.
+Use a CC3200 launchpad to bridge MQTT and cheap RF power outlets.
 
 
 # Wiring diagram
