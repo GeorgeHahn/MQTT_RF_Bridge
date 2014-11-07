@@ -5,6 +5,6 @@ Use a CC3200 launchpad to bridge MQTT and cheap RF power outlets. [More informat
 
 
 # Wiring diagram
-- Launchpad pin X: RF module VCC
-- Launchpad pin Y: RF module GND
-- Launchpad pin Z: RF module DATA
+- Launchpad 5V: RF module VCC
+- Launchpad GND: RF module GND
+- Replace D7 with a ~1K resistor, connect collector of the transistor above D7 to the RF module's data line
